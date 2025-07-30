@@ -1,4 +1,3 @@
-# Palle-Dashboard
 # 🧑‍💼 Palle Admin Dashboard
 
 A **role-based access control (RBAC)** system built using **Django** for managing employees and students efficiently. The project supports two user roles — **Admin** and **Sales** — with different levels of access and dynamic dashboards.
